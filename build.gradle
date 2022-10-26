@@ -32,6 +32,5 @@ dependencies {
     implementation "net.serenity-bdd:serenity-screenplay:$rootProject.ext.serenityVersion"
     implementation "net.serenity-bdd:serenity-screenplay-rest:$rootProject.ext.serenityVersion"
     implementation "net.serenity-bdd:serenity-cucumber:$rootProject.ext.serenityCucumberVersion"
-
 }
 gradle.startParameter.continueOnFailure = true
